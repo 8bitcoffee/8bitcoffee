@@ -1,8 +1,11 @@
+<img  width="50%" display="block" margin-left="auto" margin-right="auto" src="img/wordart.png" alt="wordart"/>
+
+
 # Hello! !مرحبًا Bonjour! こんにちは！¡Hola! 你好!
 ## I'm J and welcome to my Github! <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/>
 
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=plastic&logo=github&link=https://github.com/8bitcoffee/)](https://github.com/8bitcoffee/) 
+[![Github Badge](https://img.shields.io/badge/-Github-black?style=plastic&logo=github&link=https://github.com/8bitcoffee/)](https://github.com/8bitcoffee/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/8bitcoffee/)](https://www.linkedin.com/in/8bitcoffee)
 ![Static Badge](https://img.shields.io/badge/_-Email_Me?style=plastic&logo=mailgun&logoColor=%23FFFFFF&label=Email%20Me!&labelColor=%23DF0000&color=%23DF0000&link=mailto%3Aj%408bit.coffee)
 
@@ -21,11 +24,26 @@ Over the course of many years in the world of coffee roasting working with indus
   - Projects for a good cause (extra soft spot for environmental or educational)
 - Love learning new languages, programming and otherwise
 - Currently eyeing a home automation project with a Raspberry Pi solution
-- Ski Patroller fixing up people in the snow ❄️
+- Ski Patroller fixing up people in the snow ❄️ ⛑️
 
 ## THE STACK!
-
-
+<div>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=48"></code>
+  <code><img height="50" src="https://avatars.githubusercontent.com/u/13142323?s=40&v=4"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48"></code>
+  <code><img height="50" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/512px-Pok%C3%A9_Ball_icon.svg.png"></code>
+  <code><img height="50" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
+  <code><img height="50" src="https://avatars.githubusercontent.com/u/15658638"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png?size=48"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png?size=48"></code>
+  <code><img height="50" src="https://avatars.githubusercontent.com/u/2232217?s=40&v=4"></code>
+  <code><img height="50" src="https://avatars.githubusercontent.com/u/32372333?s=40&v=4"></code>
+  <code><img height="50" src="https://avatars.githubusercontent.com/u/21206976?s=40&v=4"></code>
+</div>
+<br/><br/>
 
 <div align="center">
   

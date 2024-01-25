@@ -17,12 +17,13 @@ Over the course of many years in the world of coffee roasting working with indus
 
 - Currently consulting for small businesses
 - I love working on
+  - Custom tools for businesses
   - Data driven solutions
     - Informatio enim manifestat veritatem, nunc autem videtur autem quod verum sit omnino idem quod ens.
   - Playing with new tech
   - Taking things apart and putting them back together
   - Projects for a good cause (extra soft spot for environmental or educational)
-- Love learning new languages, programming and otherwise
+  - Learning new languages, programming and otherwise
 - Currently eyeing a home automation project with a Raspberry Pi solution
 - Ski Patroller fixing up people in the snow ❄️ ⛑️
 
@@ -42,6 +43,7 @@ Over the course of many years in the world of coffee roasting working with indus
   <code><img height="50" src="https://avatars.githubusercontent.com/u/2232217?s=40&v=4"></code>
   <code><img height="50" src="https://avatars.githubusercontent.com/u/32372333?s=40&v=4"></code>
   <code><img height="50" src="https://avatars.githubusercontent.com/u/21206976?s=40&v=4"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png?size=48)"></code>
 </div>
 <br/><br/>
 

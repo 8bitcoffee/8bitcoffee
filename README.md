@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hello! !مرحبًا Bonjour! こんにちは！¡Hola! 你好!
+## I'm J and welcome to my Github! <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/>
 
-<!--
-**8bitcoffee/8bitcoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=plastic&logo=github&link=https://github.com/8bitcoffee/)](https://github.com/8bitcoffee/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/8bitcoffee/)](https://www.linkedin.com/in/8bitcoffee)
+![Static Badge](https://img.shields.io/badge/_-Email_Me?style=plastic&logo=mailgun&logoColor=%23FFFFFF&label=Email%20Me!&labelColor=%23DF0000&color=%23DF0000&link=mailto%3Aj%408bit.coffee)
 
-Here are some ideas to get you started:
+### A bit about me: <img src="https://8bitlogo.s3.us-east-2.amazonaws.com/8bit+no+background+copy.png" width="30"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Over the course of many years in the world of coffee roasting working with industrial equipment I ended up dealing with tech issues more and more. Wouldn't you know it, I started to like it! Now I left the industrial project management world behind. I'm a student🎓 with [Prime Digital Academy](primeacademy.io) and passionate about finding creative solutions in an increasingly digital world.
+
+## J Facts!!!
+
+- Currently consulting for small businesses
+- I love working on
+  - Data driven solutions
+    - Informatio enim manifestat veritatem, nunc autem videtur autem quod verum sit omnino idem quod ens.
+  - Playing with new tech
+  - Taking things apart and putting them back together
+  - Projects for a good cause (extra soft spot for environmental or educational)
+- Love learning new languages, programming and otherwise
+- Currently eyeing a home automation project with a Raspberry Pi solution
+- Ski Patroller fixing up people in the snow ❄️
+
+## THE STACK!
+
+
+
+<div align="center">
+  
+![Visitor Count](https://profile-counter.glitch.me/8bitcoffee/count.svg)
+
+</div>

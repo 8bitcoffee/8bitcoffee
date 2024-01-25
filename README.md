@@ -7,7 +7,7 @@
 ### 📬 Find me at
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=plastic&logo=github&link=https://github.com/8bitcoffee/)](https://github.com/8bitcoffee/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/8bitcoffee/)](https://www.linkedin.com/in/8bitcoffee)
-![Static Badge](https://img.shields.io/badge/_-Email_Me?style=plastic&logo=mailgun&logoColor=%23FFFFFF&label=Email%20Me!&labelColor=%23DF0000&color=%23DF0000&link=mailto%3Aj%408bit.coffee)
+[![Email Badge](https://img.shields.io/badge/_-Email_Me?style=plastic&logo=mailgun&logoColor=%23FFFFFF&label=Email%20Me!&labelColor=%23DF0000&color=%23DF0000&link=mailto:j@8bit.coffee)](mailto:j@8bit.coffee)
 
 ### A bit about me: <img src="https://8bitlogo.s3.us-east-2.amazonaws.com/8bit+no+background+copy.png" width="30"/>
 

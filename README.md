@@ -46,6 +46,7 @@ Over the course of many years in the world of coffee roasting working with indus
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png?size=48)"></code>
   <code><img height="50" src="https://avatars.githubusercontent.com/u/8546082?s=200&v=4"></code>
   <code><img height="50" src="https://avatars.githubusercontent.com/u/65625612?s=40&v=4"></code>
+  <code><img height="50" src="https://avatars.githubusercontent.com/u/103283236?s=48&v=4"></code>
   
 </div>
 <br/><br/>

@@ -11,7 +11,7 @@
 
 ### A bit about me: <img src="https://8bitlogo.s3.us-east-2.amazonaws.com/8bit+no+background+copy.png" width="30"/>
 
-Over the course of many years in the world of coffee roasting working with industrial equipment I ended up dealing with tech issues more and more. Wouldn't you know it, I started to like it! Now I left the industrial project management world behind. I'm a student🎓 with [Prime Digital Academy](https://primeacademy.io) and passionate about finding creative solutions in an increasingly digital world.
+Over the course of many years in the world of coffee roasting working with industrial equipment I ended up dealing with tech issues more and more. Wouldn't you know it, I started to like it! Now I left the industrial project management world behind. Hitting the tech sphere hard. I'm looking to make an impact and passionate about finding creative solutions in an increasingly digital world.
 
 ## J Facts!!!
 

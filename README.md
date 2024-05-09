@@ -6,6 +6,7 @@
 
 ### 📬 Find me at
 [![Github](https://img.shields.io/badge/-Github-black?style=plastic&logo=github&link=https://github.com/8bitcoffee/)](https://github.com/8bitcoffee/) 
+[![My Website](https://img.shields.io/badge/My%20Website-%23FF9419?style=plastic&logo=react&logoColor=%23FFFFFF&color=%23FF9419&link=https://8bit.coffee/)](https://8bit.coffee)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/8bitcoffee/)](https://www.linkedin.com/in/8bitcoffee)
 [![Email Me!](https://img.shields.io/badge/_-Email_Me?style=plastic&logo=mailgun&logoColor=%23FFFFFF&label=Email%20Me!&labelColor=%23DF0000&color=%23DF0000&link=mailto:j@8bit.coffee)](mailto:j@8bit.coffee)
 

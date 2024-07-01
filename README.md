@@ -38,7 +38,6 @@ Over the course of many years in the world of coffee roasting working with indus
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/512px-Pok%C3%A9_Ball_icon.svg.png"></code>
   <code><img height="50" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-  <code><img height="50" src="https://avatars.githubusercontent.com/u/15658638"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png?size=48"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png?size=48"></code>
   <code><img height="50" src="https://avatars.githubusercontent.com/u/2232217?s=40&v=4"></code>
